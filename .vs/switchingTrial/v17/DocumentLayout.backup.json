@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\views\\menuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:views\\menuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\views\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:views\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\views\\menuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:views\\menuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\views\\gameview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:views\\gameview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|c:\\users\\admin\\onedrive - hills road sixth form college\\cs programming\\wpf\\switchingtrial\\switchingtrial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2A7AA8D-1F94-43D0-9DED-9F6C16411293}|switchingTrial.csproj|solutionrelative:switchingtrial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:31:49.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAACMAAADwGDMzMzMCwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:02:38.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\ViewModels\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GameViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\ViewModels\\GameViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GameViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABKPQ4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:44:00.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:46:24.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T11:46:37.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\Views\\GameView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\GameView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\Views\\GameView.xaml.cs",
+              "RelativeToolTip": "Views\\GameView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:28:01.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\Views\\MenuView.xaml",
+              "RelativeDocumentMoniker": "Views\\MenuView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\Views\\MenuView.xaml",
+              "RelativeToolTip": "Views\\MenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T13:31:08.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\Views\\GameView.xaml",
+              "RelativeDocumentMoniker": "Views\\GameView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\Views\\GameView.xaml",
+              "RelativeToolTip": "Views\\GameView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T13:27:49.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\Views\\MenuView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MenuView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\Views\\MenuView.xaml.cs",
+              "RelativeToolTip": "Views\\MenuView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwPRYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:31:20.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\ViewModels\\MenuViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MenuViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\ViewModels\\MenuViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MenuViewModel.cs",
+              "ViewState": "AgIAAAQAAABAZWZmZmYOwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:43:16.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T11:46:28.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "switchingTrial",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\switchingTrial.csproj",
+              "RelativeDocumentMoniker": "switchingTrial.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Hills Road Sixth Form College\\cs PROGRAMMING\\wpf\\switchingTrial\\switchingTrial.csproj",
+              "RelativeToolTip": "switchingTrial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T12:59:52.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
